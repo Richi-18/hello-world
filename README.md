@@ -1,2 +1,3 @@
 # hello-world
-Practica1
+Hola
+Soy Ricardo Moros estudiante de desarrollo de aplicaciones web y me gusta el futbol.
